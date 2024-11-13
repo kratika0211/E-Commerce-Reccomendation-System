@@ -39,7 +39,6 @@
 - [Contributing](#contributing)
 - [Questions & Answers](#q--a)
 - [License](#license)
-- [Contact](#contact)
 
 <!-- ABOUT THE PROJECT -->
 
@@ -173,10 +172,4 @@ Contributions are what make the open source community such an amazing place to b
 
 Distributed under the GPL License. See `LICENSE` for more information.
 
-<!-- CONTACT -->
 
-## Contact
-
-[@anilsenay](https://twitter.com/anilsenay)
-
-Project Link: [https://github.com/anilsenay/next-e-commerce](https://github.com/anilsenay/next-e-commerce)
