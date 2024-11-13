@@ -12,11 +12,11 @@
     An e-commerce website example built with Next.js that I made in 1 week as a self challenge. There are some issues that I will handle later. Using Firebase as backend.
     <br />
     <br />
-    <a href="https://twitter.com/anilsenay">Contact me</a>
+    <a href="kratikadariyani@gmail.com">Contact me</a>
     ·
-    <a href="https://github.com/anilsenay/next-e-commerce/issues">Report Bug</a>
+    <a href="https://github.com/kratika0211">Report Bug</a>
     ·
-    <a href="https://github.com/anilsenay/next-e-commerce/issues">Request Feature</a>
+    <a href="https://github.com/kratika0211">Request Feature</a>
   </p>
 </p>
 
